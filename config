@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/Pradeep-Alluri/AVM3.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
